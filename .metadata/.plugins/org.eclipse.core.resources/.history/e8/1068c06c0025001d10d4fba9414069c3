@@ -1,0 +1,9 @@
+package com.sonatafriday;
+
+public class Simpleclass {
+
+	public static void main(String[] args) {
+   MyFunctionalInterface show =()
+	}
+
+}

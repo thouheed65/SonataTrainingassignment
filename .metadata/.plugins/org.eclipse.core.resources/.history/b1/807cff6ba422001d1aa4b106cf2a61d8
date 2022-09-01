@@ -1,0 +1,17 @@
+package com.sonatatwo;
+
+public class Empimpl extends Employee implements Empintf {
+
+	@Override
+	public double skillBonus(int subjectUpgraded) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void salCal() {
+		double Sal=empSal+skillBonus(0);
+		
+	}
+
+}

@@ -1,0 +1,22 @@
+package com.sonata02;
+
+public class Savingexample {
+	int accNo;
+	String accName;
+	double balance;
+	
+	public void deposite() {
+		System.out.print.ln(this.accNo);
+	}
+	
+	public void withDraw() {}
+	
+	public static void main(String args[]) {
+		Savingexample s1 = new Savingexample();
+		s1.accNo = 123;
+		s1.accName = "Thouheed";
+		s1.balance = 443;
+		s1.deposite();
+	}
+}
+   

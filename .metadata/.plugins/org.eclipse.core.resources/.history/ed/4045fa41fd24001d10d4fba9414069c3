@@ -1,0 +1,5 @@
+package com.sonatafriday;
+
+public interface Caltor {
+
+}

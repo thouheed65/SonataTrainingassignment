@@ -1,0 +1,11 @@
+package com.sonatafriday;
+
+@FunctionalInterface
+
+
+public interface MyFunctionalInterface {
+	int f1=10;
+	int f2 =20;
+double add(double f1 , double f2);
+
+}

@@ -1,0 +1,10 @@
+package com.sonata.main;
+
+public class EmpExecut {
+	
+	public static void main(String[] args) {
+		Employee e1 = new Employee();
+		EmpImpl e2 = new EmpImpl();
+	}
+
+}

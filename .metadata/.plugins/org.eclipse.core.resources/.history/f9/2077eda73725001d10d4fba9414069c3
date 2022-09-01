@@ -1,0 +1,24 @@
+package sonata.Lambdaexample;
+
+
+
+import static org.junit.Assert.*;
+
+	import org.junit.Test;
+
+	
+
+
+
+
+	
+
+	public class BookserviceTest {
+		@Test
+		public void testBook() {
+			Bookservice o1= Bookservice();
+			o1.name = 
+
+		
+
+}

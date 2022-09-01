@@ -1,0 +1,20 @@
+package com.sonata2;
+import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
+
+import com.sonatamodel.Employee;
+
+
+
+public class EmpExe {
+	@Test
+	public void Ysal() {
+		Employee e1 = new Employee();
+		Assertions.assertEquals(10000,10000);
+		
+		
+	}
+}
+
+
+

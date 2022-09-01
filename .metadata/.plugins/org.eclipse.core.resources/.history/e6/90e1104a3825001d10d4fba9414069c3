@@ -1,0 +1,14 @@
+package sonata.Lambdaexample;
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+
+public class BookServiceTest {
+	@Test
+	
+	public void testBook = () {
+	
+	{
+
+}

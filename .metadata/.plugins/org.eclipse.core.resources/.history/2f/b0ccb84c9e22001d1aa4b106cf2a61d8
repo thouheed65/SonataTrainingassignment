@@ -1,0 +1,12 @@
+package com.sonatatwo;
+
+public class Employee {
+	int empId;
+	String empName;
+	double empSal;
+	
+	public.void.salCal()  {
+		System.out.println("employee salary");
+	}
+
+}

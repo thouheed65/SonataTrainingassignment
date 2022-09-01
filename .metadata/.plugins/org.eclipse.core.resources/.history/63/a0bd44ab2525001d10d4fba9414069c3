@@ -1,0 +1,15 @@
+package Genereicexmaple;
+import.java.util.ArrayList;
+import java.util.ArrayList;
+import java.util.Collections;
+
+
+public class TestStudent {
+	public static void main(String args[]) {
+		ArrayList<Student> a1 = new ArrayList<Student>();
+		a1.add(new Student(101,"thouheed",23));
+	}
+	
+
+}
+,

@@ -1,0 +1,6 @@
+package com.sonatafriday;
+
+public interface BankInt {
+	 double interest(double d1,double d2);
+
+}
