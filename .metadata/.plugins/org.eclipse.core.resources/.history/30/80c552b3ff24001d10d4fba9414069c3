@@ -1,9 +1,0 @@
-package com.sonatafriday;
-
-@FunctionalInterface
-
-
-public interface MyFunctionalInterface {
-double add(double f1 , double f2);
-
-}

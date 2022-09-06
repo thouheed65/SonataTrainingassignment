@@ -1,8 +1,0 @@
-package com.sonatamodel;
-
-public class Emplntf {
-	public double yearSal(Employee e1);
-   publicmdouble appSal(Employee e1);
-
-
-}
