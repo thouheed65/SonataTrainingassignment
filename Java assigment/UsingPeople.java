@@ -5,7 +5,7 @@ public class UsingPeople {
 	public static void main(String[] args) {
 		
 		//Technical Employee Instance
-		TechnicalEmployee t1 = new TechnicalEmployee(22839, "Jayavardhan M", "JAVA", 25000, 5);
+		TechnicalEmployee t1 = new TechnicalEmployee(22839, "Thouheed", "JAVA", 25000, 5);
 		Address tAdd = new Address(16, "BTM Layout", "Bengaluru", 560076);
 		t1.address = tAdd;
 		
